@@ -5,30 +5,16 @@
 <p align="center"><i>:octocat: Never lose coding passion</i></p>
 
 <p align="center">
-  <a href="https://www.senseof.tech" title="Sense of Tech">
-    <img src="https://img.shields.io/badge/Sense%20of%20Tech-website-%23144272.svg?&style=for-the-badge&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://mvp.microsoft.com/fr-fr/PublicProfile/5001937" title="Microsoft MVP Profile">
-    <img src="https://img.shields.io/badge/Microsoft%20MVP-%230078d4.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.devday.be" title="DevDay Belgium">
-    <img src="https://img.shields.io/badge/DevDay-co--organizer-%23d63384.svg?&style=for-the-badge" />
-  </a>&nbsp;&nbsp;
-  <a href="https://sessionize.com/adrien-clerbois/" title="Speaker profile on Sessionize">
-    <img src="https://img.shields.io/badge/Sessionize-speaker-%231AB394.svg?&style=for-the-badge" />
-  </a>
+  <a href="https://www.senseof.tech" title="Sense of Tech"><img src="https://img.shields.io/badge/Sense%20of%20Tech-website-%23144272.svg?&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://mvp.microsoft.com/fr-fr/PublicProfile/5001937" title="Microsoft MVP Profile"><img src="https://img.shields.io/badge/Microsoft%20MVP-%230078d4.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.devday.be" title="DevDay Belgium"><img src="https://img.shields.io/badge/DevDay-co--organizer-%23d63384.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="https://sessionize.com/adrien-clerbois/" title="Speaker profile on Sessionize"><img src="https://img.shields.io/badge/Sessionize-speaker-%231AB394.svg?&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/AClerbois">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://adrien.social">
-    <img src="https://img.shields.io/badge/all%20my%20links-adrien.social-%23FF6B35.svg?&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/aclerbois">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://x.com/AClerbois"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://adrien.social"><img src="https://img.shields.io/badge/all%20my%20links-adrien.social-%23FF6B35.svg?&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/aclerbois"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## 👨‍💻 About me
