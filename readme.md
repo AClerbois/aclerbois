@@ -26,12 +26,9 @@
   <a href="https://adrien.social">
     <img src="https://img.shields.io/badge/all%20my%20links-adrien.social-%23FF6B35.svg?&style=for-the-badge" />
   </a>
-  <!-- Add your LinkedIn if you want:
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE">
+  <a href="https://www.linkedin.com/in/aclerbois">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  -->
 </p>
 
 ## 👨‍💻 About me
@@ -64,13 +61,9 @@ Some content from recent sessions and workshops:
 
 You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) organization.
 
-<!-- Optional: blog feed section.
-     If you have a blog with an RSS feed, you can auto-update this list with the
-     "blog-post-workflow" GitHub Action (gautamkrishnar/blog-post-workflow).
 ## 🖋 Blogging
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
-<!-- -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
 
