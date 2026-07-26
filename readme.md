@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [La fenêtre de contexte : l&#39;art de compresser et d&#39;oublier — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/26/fenetre-de-contexte-compresser-oublier/)
+- [The context window: the art of compressing and forgetting — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/26/context-window-compress-forget/)
 - [Vibe engineering : pourquoi vos agents IA méritent une architecture en tranches — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/25/vibe-engineering-vertical-slice-architecture/)
 - [Benchmarks LLM : lire les notes sans se faire avoir — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/25/benchmarks-llm-lire-les-notes/)
 - [Vibe engineering: why your AI agents deserve a sliced architecture — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/25/vibe-engineering-vertical-slice-architecture/)
-- [LLM benchmarks: reading the scores without getting fooled — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/25/llm-benchmarks-how-to-read-the-scores/)
-- [GitHub Copilot CLI &lpar;4/4&rpar; — Déléguer au cloud, paralléliser, automatiser — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/24/copilot-cli-4-deleguer-et-automatiser/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
