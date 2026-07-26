@@ -56,12 +56,6 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 - [GitHub Copilot CLI &lpar;4/4&rpar; — Déléguer au cloud, paralléliser, automatiser — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/24/copilot-cli-4-deleguer-et-automatiser/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AClerbois&show_icons=true&hide_border=true" alt="Adrien Clerbois' GitHub stats" />
-</p>
-
 ## 👀 Find out more about me
 
 - 🌐 Website: [senseof.tech](https://www.senseof.tech)
