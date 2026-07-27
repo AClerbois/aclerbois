@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [La mémoire des IA : comment ChatGPT et Claude se souviennent de vous — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/27/la-memoire-des-ia/)
+- [AI memory: how ChatGPT and Claude remember you — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/27/how-ai-memory-works/)
 - [La fenêtre de contexte : l&#39;art de compresser et d&#39;oublier — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/26/fenetre-de-contexte-compresser-oublier/)
 - [The context window: the art of compressing and forgetting — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/26/context-window-compress-forget/)
 - [Vibe engineering : pourquoi vos agents IA méritent une architecture en tranches — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/25/vibe-engineering-vertical-slice-architecture/)
-- [Benchmarks LLM : lire les notes sans se faire avoir — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/25/benchmarks-llm-lire-les-notes/)
-- [Vibe engineering: why your AI agents deserve a sliced architecture — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/25/vibe-engineering-vertical-slice-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
