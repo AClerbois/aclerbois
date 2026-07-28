@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Le graph engineering : offrez un mur d&#39;enquête à votre IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/le-graph-engineering-la-carte-relationnelle-de-votre-ia/)
+- [Graph engineering: give your AI a detective board — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/graph-engineering-give-your-ai-a-detective-board/)
+- [Chat, agent, loop : trois façons de faire travailler l&#39;IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/chat-agent-loop-trois-facons-de-faire-travailler-l-ia/)
+- [Chat, agent, loop: three ways to put AI to work — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/chat-agent-loop-three-ways-to-put-ai-to-work/)
 - [L&#39;historique Git : la mémoire que votre IA lit déjà — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/l-historique-git-la-memoire-que-votre-ia-lit-deja/)
-- [Git history: the memory your AI already reads — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/git-history-the-memory-your-ai-already-reads/)
-- [La mémoire des IA : comment ChatGPT et Claude se souviennent de vous — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/27/la-memoire-des-ia/)
-- [AI memory: how ChatGPT and Claude remember you — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/27/how-ai-memory-works/)
-- [La fenêtre de contexte : l&#39;art de compresser et d&#39;oublier — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/26/fenetre-de-contexte-compresser-oublier/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
