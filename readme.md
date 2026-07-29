@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Les sous-agents de GitHub Copilot : découper pour mieux régner — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/29/copilot-sous-agents-decouper-le-travail/)
+- [GitHub Copilot subagents: divide and conquer — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/29/copilot-subagents-splitting-the-work/)
 - [Le graph engineering : offrez un mur d&#39;enquête à votre IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/le-graph-engineering-la-carte-relationnelle-de-votre-ia/)
 - [Graph engineering: give your AI a detective board — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/graph-engineering-give-your-ai-a-detective-board/)
 - [Chat, agent, loop : trois façons de faire travailler l&#39;IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/chat-agent-loop-trois-facons-de-faire-travailler-l-ia/)
-- [Chat, agent, loop: three ways to put AI to work — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/chat-agent-loop-three-ways-to-put-ai-to-work/)
-- [L&#39;historique Git : la mémoire que votre IA lit déjà — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/l-historique-git-la-memoire-que-votre-ia-lit-deja/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
