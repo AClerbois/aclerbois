@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Votre serveur MCP en production : HTTP, authentification, déploiement — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/30/serveur-mcp-en-production/)
+- [Your MCP server in production: HTTP, authentication, deployment — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/30/mcp-server-in-production/)
 - [Les sous-agents de GitHub Copilot : découper pour mieux régner — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/29/copilot-sous-agents-decouper-le-travail/)
 - [GitHub Copilot subagents: divide and conquer — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/29/copilot-subagents-splitting-the-work/)
 - [Le graph engineering : offrez un mur d&#39;enquête à votre IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/le-graph-engineering-la-carte-relationnelle-de-votre-ia/)
-- [Graph engineering: give your AI a detective board — it&#39;s not rocket science!](https://blog.senseof.tech/2026/07/28/graph-engineering-give-your-ai-a-detective-board/)
-- [Chat, agent, loop : trois façons de faire travailler l&#39;IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/28/chat-agent-loop-trois-facons-de-faire-travailler-l-ia/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
