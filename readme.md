@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Le prompt caching : payer une fois, relire cent fois — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/03/prompt-caching-sous-le-capot/)
+- [Prompt caching: pay once, re-read a hundred times — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/03/prompt-caching-under-the-hood/)
 - [Tool calling : comment un LLM appelle vraiment vos fonctions — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/02/tool-calling-sous-le-capot/)
 - [Tool calling: how an LLM really calls your functions — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/02/tool-calling-under-the-hood/)
 - [Construire son RAG en .NET : le bibliothécaire prend forme — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/01/construire-son-rag-en-dotnet/)
-- [Build your RAG in .NET: the librarian takes shape — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/01/build-your-rag-in-dotnet/)
-- [Agent Framework en pratique : le dossier qui attend une signature — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/07/31/agent-framework-workflow-pratique/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
