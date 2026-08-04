@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Observer ses agents : OpenTelemetry pour l&#39;IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/04/observer-ses-agents-opentelemetry/)
+- [Observing your agents: OpenTelemetry for AI — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/04/observing-your-agents-opentelemetry/)
 - [Le prompt caching : payer une fois, relire cent fois — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/03/prompt-caching-sous-le-capot/)
 - [Prompt caching: pay once, re-read a hundred times — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/03/prompt-caching-under-the-hood/)
 - [Tool calling : comment un LLM appelle vraiment vos fonctions — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/02/tool-calling-sous-le-capot/)
-- [Tool calling: how an LLM really calls your functions — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/02/tool-calling-under-the-hood/)
-- [Construire son RAG en .NET : le bibliothécaire prend forme — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/01/construire-son-rag-en-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
