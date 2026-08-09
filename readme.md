@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Une branche par agent : Git à l&#39;ère des agents — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/09/une-branche-par-agent-git-a-l-ere-des-agents/)
+- [One branch per agent: Git in the agent era — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/09/one-branch-per-agent-git-in-the-agent-era/)
 - [Le coding agent GitHub : l&#39;issue qui revient en pull request — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/08/coding-agent-github-issue-pull-request/)
 - [The GitHub coding agent: the issue that comes back as a pull request — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/08/github-coding-agent-issue-to-pull-request/)
 - [Templates d&#39;issues : le brief de votre agent — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/07/templates-d-issues-le-brief-de-votre-agent/)
-- [Issue templates: your agent&#39;s brief — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/07/issue-templates-your-agents-brief/)
-- [A2A : quand les agents s&#39;échangent leurs cartes de visite — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/06/a2a-quand-les-agents-se-parlent/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
