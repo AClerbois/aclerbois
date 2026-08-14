@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Dans les 30 millisecondes d&#39;un token : attention et KV cache — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/14/attention-kv-cache-sous-le-capot/)
+- [Inside the 30 milliseconds of a token: attention and the KV cache — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/14/inside-30ms-of-a-token-attention-kv-cache/)
 - [Prompt injection : la défense en profondeur — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/13/prompt-injection-defense-en-profondeur/)
 - [Prompt injection: defense in depth — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/13/prompt-injection-defense-in-depth/)
 - [Wolverine ou MediatR : le messager, le pattern et la facture — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/12/wolverine-mediatr-le-pattern-et-la-facture/)
-- [Wolverine or MediatR: the messenger, the pattern and the bill — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/12/wolverine-or-mediatr-the-pattern-and-the-bill/)
-- [slnx et Central Package Management : modernisez votre solution en dix minutes — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/11/slnx-central-package-management-express/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
