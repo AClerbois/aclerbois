@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;ingénierie des évals : ce que « 94 % » veut vraiment dire — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/18/ingenierie-des-evals-la-rigueur-statistique/)
+- [Eval engineering: what &#39;94%&#39; really means — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/18/eval-engineering-statistical-rigor/)
 - [Fiabilité des agents longue durée : idempotence, compensation et le crash au mauvais moment — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/17/fiabilite-des-agents-longue-duree/)
 - [Reliability of long-running agents: idempotency, compensation and the crash at the worst moment — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/17/reliability-of-long-running-agents/)
 - [L&#39;économie de l&#39;inférence : VRAM, batching et le point de bascule — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/16/economie-de-l-inference/)
-- [The economics of inference: VRAM, batching and the break-even point — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/16/the-economics-of-inference/)
-- [Sampling : temperature, top-p et le décodage contraint — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/15/sampling-decodage-contraint/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
