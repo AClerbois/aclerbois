@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Les artefacts du vibe coding : le dépôt qui parle — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/21/les-artefacts-du-vibe-coding-la-carte-complete/)
+- [The artifacts of vibe coding: the repo that talks — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/21/the-artifacts-of-vibe-coding-the-complete-map/)
 - [Le fine-tuning, quand c&#39;est vraiment la réponse — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/20/fine-tuning-quand-c-est-la-reponse/)
 - [Fine-tuning, when it&#39;s really the answer — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/20/fine-tuning-when-its-the-answer/)
 - [La recherche vectorielle à l&#39;échelle : HNSW, hybride et re-ranking — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/19/recherche-vectorielle-a-l-echelle/)
-- [Vector search at scale: HNSW, hybrid and re-ranking — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/19/vector-search-at-scale/)
-- [L&#39;ingénierie des évals : ce que « 94 % » veut vraiment dire — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/18/ingenierie-des-evals-la-rigueur-statistique/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
