@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Spec-driven development : la spec redevient la source de vérité — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/23/spec-driven-development-la-spec-source-de-verite/)
+- [Spec-driven development: the spec becomes the source of truth again — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/23/spec-driven-development-the-spec-as-source-of-truth/)
 - [AGENTS.md : le guide d&#39;onboarding de votre IA — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/22/agents-md-le-guide-d-onboarding-de-votre-ia/)
 - [AGENTS.md: your AI&#39;s onboarding guide — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/22/agents-md-your-ai-onboarding-guide/)
 - [Les artefacts du vibe coding : le dépôt qui parle — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/21/les-artefacts-du-vibe-coding-la-carte-complete/)
-- [The artifacts of vibe coding: the repo that talks — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/21/the-artifacts-of-vibe-coding-the-complete-map/)
-- [Le fine-tuning, quand c&#39;est vraiment la réponse — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/20/fine-tuning-quand-c-est-la-reponse/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
