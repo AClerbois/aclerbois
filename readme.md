@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Les tests : la spec exécutable — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/26/les-tests-la-spec-executable/)
+- [Tests: the executable spec — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/26/tests-the-executable-spec/)
 - [Le plan d&#39;implémentation : le point de contrôle humain — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/25/le-plan-d-implementation-le-point-de-controle-humain/)
 - [The implementation plan: the human checkpoint — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/25/the-implementation-plan-the-human-checkpoint/)
 - [RFC et design docs : décider avant de coder — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/24/rfc-design-docs-decider-avant-de-coder/)
-- [RFCs and design docs: decide before you code — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/24/rfcs-and-design-docs-decide-before-you-code/)
-- [Spec-driven development : la spec redevient la source de vérité — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/23/spec-driven-development-la-spec-source-de-verite/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
