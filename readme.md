@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Schémas et contrats : le contexte que l&#39;IA ne peut pas halluciner — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/27/schemas-et-contrats-le-contexte-machine-verifiable/)
+- [Schemas and contracts: the context AI can&#39;t hallucinate — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/27/schemas-and-contracts-machine-verifiable-context/)
 - [Les tests : la spec exécutable — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/26/les-tests-la-spec-executable/)
 - [Tests: the executable spec — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/26/tests-the-executable-spec/)
 - [Le plan d&#39;implémentation : le point de contrôle humain — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/25/le-plan-d-implementation-le-point-de-controle-humain/)
-- [The implementation plan: the human checkpoint — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/25/the-implementation-plan-the-human-checkpoint/)
-- [RFC et design docs : décider avant de coder — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/24/rfc-design-docs-decider-avant-de-coder/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
