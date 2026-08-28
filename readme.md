@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Linters et analyzers : les conventions qui s&#39;appliquent toutes seules — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/28/linters-analyzers-les-conventions-qui-s-appliquent-toutes-seules/)
+- [Linters and analyzers: conventions that enforce themselves — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/28/linters-and-analyzers-conventions-that-enforce-themselves/)
 - [Schémas et contrats : le contexte que l&#39;IA ne peut pas halluciner — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/27/schemas-et-contrats-le-contexte-machine-verifiable/)
 - [Schemas and contracts: the context AI can&#39;t hallucinate — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/27/schemas-and-contracts-machine-verifiable-context/)
 - [Les tests : la spec exécutable — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/26/les-tests-la-spec-executable/)
-- [Tests: the executable spec — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/26/tests-the-executable-spec/)
-- [Le plan d&#39;implémentation : le point de contrôle humain — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/25/le-plan-d-implementation-le-point-de-controle-humain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
