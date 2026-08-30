@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [llms.txt : la doc écrite pour les machines — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/30/llms-txt-la-doc-pensee-pour-les-ia/)
+- [llms.txt: documentation written for machines — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/30/llms-txt-documentation-written-for-ai/)
 - [Le postmortem : la mémoire des incidents — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/29/le-postmortem-la-memoire-des-incidents/)
 - [The postmortem: the memory of incidents — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/29/the-postmortem-the-memory-of-incidents/)
 - [Linters et analyzers : les conventions qui s&#39;appliquent toutes seules — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/28/linters-analyzers-les-conventions-qui-s-appliquent-toutes-seules/)
-- [Linters and analyzers: conventions that enforce themselves — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/28/linters-and-analyzers-conventions-that-enforce-themselves/)
-- [Schémas et contrats : le contexte que l&#39;IA ne peut pas halluciner — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/27/schemas-et-contrats-le-contexte-machine-verifiable/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
