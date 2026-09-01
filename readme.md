@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;Agentic SDLC &lpar;2/9&rpar; — La machine agentique : les quatre pièces qui exécutent vos prompts — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/01/agentic-sdlc-2-la-machine-agentique/)
+- [The Agentic SDLC &lpar;2/9&rpar; — The agentic runtime machine: the four parts that run your prompts — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/01/agentic-sdlc-2-the-agentic-runtime-machine/)
 - [L&#39;Agentic SDLC &lpar;1/9&rpar; — La falaise du vibe coding : pourquoi vos agents ont besoin d&#39;une méthode — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/31/agentic-sdlc-1-la-falaise-du-vibe-coding/)
 - [The Agentic SDLC &lpar;1/9&rpar; — The vibe coding cliff: why your agents need a method — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/31/agentic-sdlc-1-the-vibe-coding-cliff/)
 - [llms.txt : la doc écrite pour les machines — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/30/llms-txt-la-doc-pensee-pour-les-ia/)
-- [llms.txt: documentation written for machines — it&#39;s not rocket science!](https://blog.senseof.tech/2026/08/30/llms-txt-documentation-written-for-ai/)
-- [Le postmortem : la mémoire des incidents — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/08/29/le-postmortem-la-memoire-des-incidents/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
