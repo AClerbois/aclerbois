@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;Agentic SDLC &lpar;5/9&rpar; — L&#39;économie de l&#39;attention : la fenêtre n&#39;est pas le focus — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/04/agentic-sdlc-5-l-economie-de-l-attention/)
+- [The Agentic SDLC &lpar;5/9&rpar; — The attention economy: the window is not the focus — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/04/agentic-sdlc-5-the-attention-economy/)
 - [L&#39;Agentic SDLC &lpar;4/9&rpar; — PROSE : cinq contraintes pour des agents fiables — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/03/agentic-sdlc-4-prose-cinq-contraintes/)
 - [The Agentic SDLC &lpar;4/9&rpar; — PROSE: five constraints for reliable agents — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/03/agentic-sdlc-4-prose-five-constraints/)
 - [L&#39;Agentic SDLC &lpar;3/9&rpar; — Le dépôt instrumenté : sept primitives pour équiper vos agents — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/02/agentic-sdlc-3-le-depot-instrumente/)
-- [The Agentic SDLC &lpar;3/9&rpar; — The instrumented codebase: seven primitives to equip your agents — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/02/agentic-sdlc-3-the-instrumented-codebase/)
-- [L&#39;Agentic SDLC &lpar;2/9&rpar; — La machine agentique : les quatre pièces qui exécutent vos prompts — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/01/agentic-sdlc-2-la-machine-agentique/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
