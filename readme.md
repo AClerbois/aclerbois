@@ -49,11 +49,11 @@ You can also check out the [@Sense-Of-Tech](https://github.com/Sense-Of-Tech) or
 
 ## 🖋 Blogging
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;Agentic SDLC &lpar;7/9&rpar; — Orchestrer une flotte d&#39;agents : vagues et points de contrôle — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/06/agentic-sdlc-7-orchestrer-une-flotte-d-agents/)
+- [The Agentic SDLC &lpar;7/9&rpar; — Orchestrating an agent fleet: waves and checkpoints — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/06/agentic-sdlc-7-orchestrating-an-agent-fleet/)
 - [L&#39;Agentic SDLC &lpar;6/9&rpar; — La frontière déterministe/probabiliste : l&#39;agent propose, la porte dispose — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/05/agentic-sdlc-6-la-frontiere-deterministe-probabiliste/)
 - [The Agentic SDLC &lpar;6/9&rpar; — The deterministic/probabilistic boundary: the agent proposes, the gate disposes — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/05/agentic-sdlc-6-the-deterministic-probabilistic-boundary/)
 - [L&#39;Agentic SDLC &lpar;5/9&rpar; — L&#39;économie de l&#39;attention : la fenêtre n&#39;est pas le focus — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/04/agentic-sdlc-5-l-economie-de-l-attention/)
-- [The Agentic SDLC &lpar;5/9&rpar; — The attention economy: the window is not the focus — it&#39;s not rocket science!](https://blog.senseof.tech/2026/09/04/agentic-sdlc-5-the-attention-economy/)
-- [L&#39;Agentic SDLC &lpar;4/9&rpar; — PROSE : cinq contraintes pour des agents fiables — c&#39;est pas sorcier !](https://blog.senseof.tech/fr/2026/09/03/agentic-sdlc-4-prose-cinq-contraintes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👀 Find out more about me
